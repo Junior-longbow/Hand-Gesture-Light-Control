@@ -49,7 +49,7 @@ This project enables a light to be controlled by simple hand gestures, using an 
 
 1: Clone this repository.
 
-  - git clone https://github.com/yourusername/hand-gesture-light-control.git
+  - git clone https://github.com/junior-longbow/hand-gesture-light-control.git
 cd hand-gesture-light-control
 
 2: Open the Arduino IDE and install necessary libraries (e.g., ESP8266WiFi if required for your board).
