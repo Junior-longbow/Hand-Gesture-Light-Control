@@ -36,8 +36,8 @@ This project enables a light to be controlled by simple hand gestures, using an 
 2: Connect the relay module to the board:
 
 - S (Signal) to another digital pin (e.g., D5)
-- + to 5V
-- - to GND
+- Vcc to 5V
+- GND to GND
 
 - *Make Sure Both The Relay And The Tracking Sensor Are Connected To A Common Ground*
 
